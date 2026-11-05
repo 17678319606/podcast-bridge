@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>进步书房</title>
+    <link>https://jinbufenzi.com</link>
+    <atom:link href="https://jinbufenzi.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-cn</language>
+    <copyright>© 李雪含</copyright>
+    <description>一期讲透一本商业与个人成长经典：从《国富论》《高性价比人生指南》到《商业入门》《自卑与超越》。本节目音频由 AI 合成、人工听审后发布，同步更新于网易云音乐《进步书房》。</description>
+    <itunes:author>李雪含</itunes:author>
+    <itunes:owner>
+      <itunes:name>李雪含</itunes:name>
+      <itunes:email>lixuehanlofter@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://jinbufenzi.com/podcast/cover-3000.jpg"/>
+    <image>
+      <url>https://jinbufenzi.com/podcast/cover-3000.jpg</url>
+      <title>进步书房</title>
+      <link>https://jinbufenzi.com</link>
+    </image>
+    <itunes:category text="Education">
+      <itunes:category text="Self-Improvement"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>十个人，一天四万八千枚针——一本书讲透《国富论》（上）</title>
+      <description>本节目音频由 AI 合成，发布前经人工听审；本 feed 为《进步书房》的 Apple Podcasts 同步源，内容与网易云单集一致。《国富论》已进入公共领域，本集内容按原著独立编排讲解。
+
+十个人一天做四万八千枚针，靠的不是手快，是分工。这一期把《国富论》第一、二编讲透：价格到底由什么组成，货币为什么出现，资本和工资、利润、地租怎么分账，借贷为什么是资本支配权的让度，法定利息率定高定低各出什么事，最后讲资本四种用途的自然次序，以及欧洲为什么两百年倒着走。
+
+网易云单集：https://music.163.com/song?id=3731998291
+原书：《国富论》亚当·斯密 著（1776），已进入公共领域。</description>
+      <pubDate>Thu, 05 Nov 2026 09:19:00 +0800</pubDate>
+      <guid isPermaLink="false">netease-3731998291</guid>
+      <enclosure url="https://jinbufenzi.com/podcast/lecture-ep04-final.mp3" length="21955629" type="audio/mpeg"/>
+      <itunes:duration>22:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>开公司之前，先把这8章算清楚——一本书讲透《商业入门》（上）</title>
+      <description>本期节目音频由 AI 生成，人工听审把关后发布。
+
+开公司之前，先把这 8 章算清楚。美国大学商科入门教材《商业入门》上集，讲第一到八章：经济体系与供需、商业伦理与社会责任、全球市场、企业所有制形式、创业、管理、组织结构、人力资源与劳资关系。从一场飓风推高粮食运费讲起，到独资、合伙、公司三种壳怎么选，再到管理循环、组织形态与留人打法，拼出一张开公司必须懂的概念全景图。
+
+时间轴：
+00:00 片头与本期出处
+00:55 经济体系与供需：生产要素与价格是怎么定的
+05:21 全球市场：比较优势与汇率
+06:58 商业伦理与社会责任
+08:42 企业所有制：独资、合伙与公司制
+10:07 创业：小企业主与成长型创业者
+12:11 管理与组织结构
+15:15 人力资源：为什么人才是竞争力
+17:29 复盘：当 AI 接管知识要素，商业蓝图会怎样变
+
+本期讲的书：美国 OpenStax《Introduction to Business》，节目里称它《商业入门》，作者劳伦斯·吉特曼、卡尔·麦克丹尼尔、阿米特·沙阿等学者，2018 年出版，OpenStax 为莱斯大学旗下的开放教材项目，本书采用 CC BY 4.0 许可发布。官方页面：https://openstax.org/details/books/introduction-business ；许可全文：https://creativecommons.org/licenses/by/4.0/ 。讲稿为节目组据原书做的中文原创提炼，概念定义和案例数据以教材为准；书里用的美国统计数字大多是教材成书年代、也就是 2010 年代的口径，讲到时都带年份或注明是教材数据，请当理解机制的样本，不要当成今天的实时行情。下期讲第九到十七章。
+
+编辑说明：正片主持人未口播作者与许可信息，本期在片头之后补了一段出处说明，片尾为本期专属版；正片内容本身未做改动。</description>
+      <pubDate>Mon, 02 Nov 2026 20:35:00 +0800</pubDate>
+      <guid isPermaLink="false">netease-3731615784</guid>
+      <enclosure url="https://jinbufenzi.com/podcast/lecture-ep09-final.mp3" length="18710061" type="audio/mpeg"/>
+      <itunes:duration>19:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>下半程的17件事，一样要算清楚——一本书讲透《高性价比人生指南》（下）</title>
+      <description>本节目音频由AI生成、人工听审把关后发布。
+上一期讲完第 1 节到第 17 节，这一期讲完《高性价比人生指南》的下半程：第 18 节到第 34 节，也就是从养孩子、在职离职、新生儿、出国旅行、放松减压、学技能、看病，到身后事、做网站、怀孕生产、外形消费、重大打击、上学、十八岁之后的选择、出国留学、残疾后的生活、家里常备药——把人生进入家庭、工作、孩子这些具体阶段之后，账要怎么接着算讲完。涉及医疗与健康的内容是书中引用研究与官方统计的说法，不是医疗建议，具体请听医生的；涉及财务、法律的内容同样是书中引用整理，不是专业建议。
+时间轴：
+00:00 引子与出处说明
+01:46 先算确定能拿到的钱：补贴与产假
+06:28 出国、旅行与境外安全
+08:37 保险的风险定价
+10:17 上学这笔账：教育回报
+12:09 看病：病历与医保
+14:53 做一个网站：资质、备案和服务器
+16:36 新生儿：医保要尽早办
+20:36 出国留学与学历认证
+22:28 家里常备药：别混着吃
+本期讲的书：《高性价比人生指南》，作者 Ben，以 CC BY 4.0 许可开源发布。原书：https://github.com/eternity4719/HowToLiveBetter ，许可：https://creativecommons.org/licenses/by/4.0/deed.zh ，书站阅读页：https://book.dajiayouxuan.com/books/how-to-live-better/
+本期开场出处声明为编辑配音：原生成音频将许可误读为 CC BY-SA 4.0，已替换为正确版本（CC BY 4.0），特此说明。</description>
+      <pubDate>Mon, 02 Nov 2026 12:49:00 +0800</pubDate>
+      <guid isPermaLink="false">netease-3731823363</guid>
+      <enclosure url="https://jinbufenzi.com/podcast/lecture-ep03-final.mp3" length="23732781" type="audio/mpeg"/>
+      <itunes:duration>24:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>把自卑练成你的本事——一本书讲透《自卑与超越》</title>
+      <description>本节目音频由AI生成、人工听审把关后发布。
+阿德勒说，自卑感不是病，是人人都有、推动人类进步的燃料——问题只在燃料往哪边烧。这一期整本讲透《自卑与超越》：从生命的意义、社会兴趣这把尺子，到生活风格、自卑情结与优越情结，再到早期记忆、梦、家庭与学校、青春期，最后收束到人生三大课题——职业、同伴、爱情，落点是一套可执行的动作：把目标拿出来验一验、把自卑转成训练计划、用贡献感替代优越感焦虑。
+本期内容是阿德勒心理学理论框架的介绍，是书中引用、非建议，不是心理咨询，更不是医疗建议；涉及心理困扰的内容请咨询专业心理咨询师和医生。
+本期讲的书：《自卑与超越》，作者 阿尔弗雷德·阿德勒（Alfred Adler，1870—1937），英文底本 What Life Should Mean to You（1931），原作公版；本期提炼稿据英文底本自译整理，英文全文见互联网档案馆（archive.org）。
+说明：本集为片尾更正重发版。首发版片尾误用了另一本书的专属片尾，现已替换为本集专属片尾，正文内容不变。</description>
+      <pubDate>Sun, 01 Nov 2026 22:49:00 +0800</pubDate>
+      <guid isPermaLink="false">netease-3731744688</guid>
+      <enclosure url="https://jinbufenzi.com/podcast/lecture-ep08-final.mp3" length="22080429" type="audio/mpeg"/>
+      <itunes:duration>23:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>“看不见的手”只出现过一次——一本书讲透《国富论》（下）</title>
+      <description>本节目音频由AI生成、人工听审把关后发布。
+《国富论》前半本讲的是财富的地基：分工、价格、资本积累。这一期讲后三编：钱的自然顺序为什么是先种地、再开厂、最后出海，欧洲又为什么把这个顺序走反了；斯密怎么亲手拆掉统治欧洲两百年的重商主义国策——金和银不是财富、顺差不是胜利；以及全书最容易被误读的一段：“看不见的手”在近千页原著里只出现过一次，它到底在说什么。最后收束到第五编：政府真正该做的只有三件事，税要按四条原则收，债为什么不能随便借。
+时间轴：
+00:00 引子与出处说明
+02:02 第三编：财富的自然顺序
+04:45 钻石搭扣：领主拿权力换虚荣
+07:28 第四编：亲手拆掉重商主义
+10:14 殖民地与垄断
+11:35 看不见的手：近千页里只出现一次
+12:44 第五编：政府只该做三件事
+15:40 税收四原则
+17:34 国债的代价
+本期讲的书：《国富论》，作者 亚当·斯密（Adam Smith，1723–1790），1776 年出版；英文原著公版，全文见 Project Gutenberg：https://www.gutenberg.org/ebooks/3300 ；中国读者熟悉的严复译本《原富》，译者 1921 年逝、译本公版。
+节目内一处口播为后期编辑修正：钻石搭扣一节中“供养一千个人一年的费用”一句为编辑配音替换，原生成音频此处数字有误，特此说明。</description>
+      <pubDate>Sun, 01 Nov 2026 22:07:00 +0800</pubDate>
+      <guid isPermaLink="false">netease-3731685506</guid>
+      <enclosure url="https://jinbufenzi.com/podcast/lecture-ep05-final.mp3" length="20182457" type="audio/mpeg"/>
+      <itunes:duration>21:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>先把这17件事算清楚——一本书讲透《高性价比人生指南》（上）</title>
+      <description>本节目音频由 AI 生成、人工听审把关后发布；本 feed 为《进步书房》的 Apple Podcasts 同步源，内容与网易云单集一致。
+
+一本书讲透《高性价比人生指南》（上）：第 1 节到第 17 节，逐件算清收入、支出、保险、住房、出行这些人生基本账。
+
+网易云单集：https://music.163.com/song?id=3733859290
+原书：《高性价比人生指南》（GitHub 开源作品，CC BY 4.0 许可）。</description>
+      <pubDate>Wed, 28 Oct 2026 09:57:00 +0800</pubDate>
+      <guid isPermaLink="false">netease-3733859290</guid>
+      <enclosure url="https://jinbufenzi.com/podcast/lecture-ep02-final.mp3" length="15682605" type="audio/mpeg"/>
+      <itunes:duration>16:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>算清你的保命账——〈高性价比人生指南〉导读</title>
+      <description>本节目音频由 AI 生成、人工听审把关后发布；本 feed 为《进步书房》的 Apple Podcasts 同步源，内容与网易云单集一致。
+
+先算清你的保命账：这期是《高性价比人生指南》的导读——失业、意外、生病时你的钱能撑多久，备用金为什么要先于一切投资，以及这本书下半程要逐件算清的那些人生大事。
+
+网易云单集：https://music.163.com/song?id=3731072667
+原书：《高性价比人生指南》（GitHub 开源作品，CC BY 4.0 许可）。</description>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0800</pubDate>
+      <guid isPermaLink="false">netease-3731072667</guid>
+      <enclosure url="https://jinbufenzi.com/podcast/lecture-ep01-final.mp3" length="12457005" type="audio/mpeg"/>
+      <itunes:duration>12:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
